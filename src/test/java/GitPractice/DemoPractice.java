@@ -6,6 +6,7 @@ public class DemoPractice {
 @Test	
 public void m1() {
 	System.out.println("HI");
+	System.out.println("Good morning");
 	
 }
 
